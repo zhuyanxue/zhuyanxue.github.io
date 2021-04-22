@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhuyanxue.github.io</id>
+    <id>http://example.com</id>
     <title>至简青心</title>
-    <link href="https://zhuyanxue.github.io" />
+    <link href="http://example.com" />
     <updated>2021-04-22T12:41:43.557Z</updated>
     <entry>
-        <id>https://zhuyanxue.github.io/2021/04/22/%E6%95%99%E5%B8%88/test/</id>
+        <id>http://example.com/2021/04/22/%E6%95%99%E5%B8%88/test/</id>
         <title></title>
-        <link rel="alternate" href="https://zhuyanxue.github.io/2021/04/22/%E6%95%99%E5%B8%88/test/"/>
+        <link rel="alternate" href="http://example.com/2021/04/22/%E6%95%99%E5%B8%88/test/"/>
         <content type="html"></content>
         <updated>2021-04-22T12:41:43.557Z</updated>
     </entry>
     <entry>
-        <id>https://zhuyanxue.github.io/2021/04/22/java/test/</id>
+        <id>http://example.com/2021/04/22/java/test/</id>
         <title>如何理解一个项目</title>
-        <link rel="alternate" href="https://zhuyanxue.github.io/2021/04/22/java/test/"/>
+        <link rel="alternate" href="http://example.com/2021/04/22/java/test/"/>
         <content type="html">&lt;h2 id=&#34;一-从servlet到springboot&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-从servlet到springboot&#34;&gt;#&lt;/a&gt; 一、从 servlet 到 springboot&lt;/h2&gt;
 &lt;p&gt;参考：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vZGF2aWR3YW5nNDU2L3AvMTAyOTc0NzYuaHRtbA==&#34;&gt;https://www.cnblogs.com/davidwang456/p/10297476.html&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -26,9 +26,9 @@
         <updated>2021-04-22T11:53:03.394Z</updated>
     </entry>
     <entry>
-        <id>https://zhuyanxue.github.io/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/</id>
+        <id>http://example.com/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/</id>
         <title>如何理解一个项目</title>
-        <link rel="alternate" href="https://zhuyanxue.github.io/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/"/>
+        <link rel="alternate" href="http://example.com/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/"/>
         <content type="html">&lt;h3 id=&#34;1-理解需求找到架构不要去看代码自己思考怎么做&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-理解需求找到架构不要去看代码自己思考怎么做&#34;&gt;#&lt;/a&gt; 1、理解需求，找到架构（不要去看代码，自己思考怎么做）&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;需求&lt;/strong&gt;：从项目开发人员或客户，明白这个项目的需求是什么（即：这个项目整体需要实现怎样的功能）；&lt;/li&gt;
