@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "至简青心",
+    "description": "",
+    "home_page_url": "https://qinyan.github.io",
+    "items": [
+        {
+            "id": "https://qinyan.github.io/2021/04/22/%E6%95%99%E5%B8%88/test/",
+            "url": "https://qinyan.github.io/2021/04/22/%E6%95%99%E5%B8%88/test/",
+            "title": "",
+            "date_published": "2021-04-22T12:41:43.557Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
+            "id": "https://qinyan.github.io/2021/04/22/java/test/",
+            "url": "https://qinyan.github.io/2021/04/22/java/test/",
+            "title": "如何理解一个项目",
+            "date_published": "2021-04-22T11:53:03.394Z",
+            "content_html": "<h2 id=\"一-从servlet到springboot\"><a class=\"markdownIt-Anchor\" href=\"#一-从servlet到springboot\">#</a> 一、从 servlet 到 springboot</h2>\n<p>参考：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vZGF2aWR3YW5nNDU2L3AvMTAyOTc0NzYuaHRtbA==\">https://www.cnblogs.com/davidwang456/p/10297476.html</span></p>\n<ul>\n<li>servlet 的本质没有变化，从 web 框架的发展来看，web 框架只是简化了开发 servlet 的工作，但还是遵循 servlet 规范的发展而发展的。</li>\n<li>servlet 的历史发展，从配置方式向编程方式到自动配置方式发展。</li>\n<li>spring mvc 框架的分组：root 和 child (可以有多个 dispatcherservlet)，多个 child 可以共享 root，child 直接不共享</li>\n</ul>\n",
+            "tags": []
+        },
+        {
+            "id": "https://qinyan.github.io/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/",
+            "url": "https://qinyan.github.io/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/",
+            "title": "如何理解一个项目",
+            "date_published": "2021-04-22T11:29:08.955Z",
+            "content_html": "<h3 id=\"1-理解需求找到架构不要去看代码自己思考怎么做\"><a class=\"markdownIt-Anchor\" href=\"#1-理解需求找到架构不要去看代码自己思考怎么做\">#</a> 1、理解需求，找到架构（不要去看代码，自己思考怎么做）</h3>\n<ul>\n<li><strong>需求</strong>：从项目开发人员或客户，明白这个项目的需求是什么（即：这个项目整体需要实现怎样的功能）；</li>\n<li><strong>架构</strong>：这个项目应该处于整体架构上的那一层：硬件 —— 服务器 —— 平台接口 —— 服务；</li>\n</ul>\n<h3 id=\"2-分析数据库的表自己想要需要的核心表是哪些\"><a class=\"markdownIt-Anchor\" href=\"#2-分析数据库的表自己想要需要的核心表是哪些\">#</a> 2、分析数据库的表（自己想要需要的核心表是哪些）</h3>\n<ul>\n<li><strong>核心表</strong>：根据表名和注释，找到数据库中核心的表，对核心业务影响最大的 3 至 5 个表；</li>\n</ul>\n<h3 id=\"3-分析项目目录不要看代码只看名字\"><a class=\"markdownIt-Anchor\" href=\"#3-分析项目目录不要看代码只看名字\">#</a> 3、分析项目目录（不要看代码，只看名字）</h3>\n<ul>\n<li>查看<strong>配置文件和项目依赖</strong>：简略看下项目涉及的技术，回想下自己写过 demo（越简单越好），记不得去看博客笔记。</li>\n</ul>\n",
+            "tags": []
+        }
+    ]
+}

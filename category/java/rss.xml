@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>至简青心 • Posts by &#34;java&#34; category</title>
+        <link>https://qinyan.github.io</link>
+        <description></description>
+        <language>zh-CN,en,ja,default</language>
+        <pubDate>Thu, 22 Apr 2021 19:53:03 +0800</pubDate>
+        <lastBuildDate>Thu, 22 Apr 2021 19:53:03 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://qinyan.github.io/2021/04/22/java/test/</guid>
+            <title>如何理解一个项目</title>
+            <link>https://qinyan.github.io/2021/04/22/java/test/</link>
+            <pubDate>Thu, 22 Apr 2021 19:53:03 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;一-从servlet到springboot&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-从servlet到springboot&#34;&gt;#&lt;/a&gt; 一、从 servlet 到 springboot&lt;/h2&gt;
+&lt;p&gt;参考：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vZGF2aWR3YW5nNDU2L3AvMTAyOTc0NzYuaHRtbA==&#34;&gt;https://www.cnblogs.com/davidwang456/p/10297476.html&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;servlet 的本质没有变化，从 web 框架的发展来看，web 框架只是简化了开发 servlet 的工作，但还是遵循 servlet 规范的发展而发展的。&lt;/li&gt;
+&lt;li&gt;servlet 的历史发展，从配置方式向编程方式到自动配置方式发展。&lt;/li&gt;
+&lt;li&gt;spring mvc 框架的分组：root 和 child (可以有多个 dispatcherservlet)，多个 child 可以共享 root，child 直接不共享&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://qinyan.github.io/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/</guid>
+            <title>如何理解一个项目</title>
+            <link>https://qinyan.github.io/2021/04/22/java/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE/</link>
+            <pubDate>Thu, 22 Apr 2021 19:29:08 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;1-理解需求找到架构不要去看代码自己思考怎么做&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-理解需求找到架构不要去看代码自己思考怎么做&#34;&gt;#&lt;/a&gt; 1、理解需求，找到架构（不要去看代码，自己思考怎么做）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;需求&lt;/strong&gt;：从项目开发人员或客户，明白这个项目的需求是什么（即：这个项目整体需要实现怎样的功能）；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;架构&lt;/strong&gt;：这个项目应该处于整体架构上的那一层：硬件 —— 服务器 —— 平台接口 —— 服务；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-分析数据库的表自己想要需要的核心表是哪些&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-分析数据库的表自己想要需要的核心表是哪些&#34;&gt;#&lt;/a&gt; 2、分析数据库的表（自己想要需要的核心表是哪些）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;核心表&lt;/strong&gt;：根据表名和注释，找到数据库中核心的表，对核心业务影响最大的 3 至 5 个表；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-分析项目目录不要看代码只看名字&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-分析项目目录不要看代码只看名字&#34;&gt;#&lt;/a&gt; 3、分析项目目录（不要看代码，只看名字）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;查看&lt;strong&gt;配置文件和项目依赖&lt;/strong&gt;：简略看下项目涉及的技术，回想下自己写过 demo（越简单越好），记不得去看博客笔记。&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
