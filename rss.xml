@@ -10,49 +10,111 @@
         </author>
         <description></description>
         <language>zh-CN,en,ja,default</language>
-        <pubDate>Fri, 23 Apr 2021 16:21:23 +0800</pubDate>
-        <lastBuildDate>Fri, 23 Apr 2021 16:21:23 +0800</lastBuildDate>
+        <pubDate>Tue, 27 Apr 2021 19:17:32 +0800</pubDate>
+        <lastBuildDate>Tue, 27 Apr 2021 19:17:32 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/forms/teacher/test1/</guid>
-            <title>教师资格证面试</title>
-            <link>http://example.com/forms/teacher/test1/</link>
-            <category term="体制考试" scheme="http://example.com/categories/forms/" />
-            <category term="教师" scheme="http://example.com/categories/forms/teacher/" />
-            <pubDate>Fri, 23 Apr 2021 16:21:23 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;教师资格证面试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#教师资格证面试&#34;&gt;#&lt;/a&gt; 教师资格证面试&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;信息技术学科&lt;/li&gt;
-&lt;/ul&gt;
+            <guid isPermalink="true">http://example.com/usually/blibli/%E5%BA%8F%E8%A8%80/</guid>
+            <title>B站-序言</title>
+            <link>http://example.com/usually/blibli/%E5%BA%8F%E8%A8%80/</link>
+            <category term="杂谈" scheme="http://example.com/categories/usually/" />
+            <category term="B站" scheme="http://example.com/categories/usually/blibli/" />
+            <pubDate>Tue, 27 Apr 2021 19:17:32 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;主要是记录自己 b 站对应视频的文档，或者对视频进行补充说明；&lt;/p&gt;
+&lt;p&gt;b 站地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMTAwMDM2MTU2&#34;&gt;https://space.bilibili.com/100036156&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/forms/teacher/test2/</guid>
-            <title>置顶文章</title>
-            <link>http://example.com/forms/teacher/test2/</link>
+            <guid isPermalink="true">http://example.com/forms/master/%E5%BA%8F%E8%A8%80/</guid>
+            <title>公务员事业编-序言</title>
+            <link>http://example.com/forms/master/%E5%BA%8F%E8%A8%80/</link>
+            <category term="体制考试" scheme="http://example.com/categories/forms/" />
+            <category term="公务员" scheme="http://example.com/categories/forms/master/" />
+            <pubDate>Tue, 27 Apr 2021 18:59:12 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;考试内容&lt;/p&gt;
+&lt;p&gt;公务员、事业编制考试内容，基本都分为两个部分，也基本一致，故放到一个模块下；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;客观题：常识、言语、数量、逻辑、资料；&lt;/p&gt;
+&lt;p&gt;主观：单一题、公文题、作文等；&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/computer/logic/%E5%BA%8F%E8%A8%80/</guid>
+            <title>算法-序言</title>
+            <link>http://example.com/computer/logic/%E5%BA%8F%E8%A8%80/</link>
+            <category term="计算机技术" scheme="http://example.com/categories/computer/" />
+            <category term="算法" scheme="http://example.com/categories/computer/logic/" />
+            <pubDate>Tue, 27 Apr 2021 18:45:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;序言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#序言&#34;&gt;#&lt;/a&gt; 序言&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;说明&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;记录自己学习的计算机算法&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/forms/teacher/%E5%BA%8F/</guid>
+            <title>教师考试-序言</title>
+            <link>http://example.com/forms/teacher/%E5%BA%8F/</link>
+            <category term="体制考试" scheme="http://example.com/categories/forms/" />
+            <category term="教师" scheme="http://example.com/categories/forms/teacher/" />
+            <pubDate>Tue, 27 Apr 2021 18:38:11 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;序言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#序言&#34;&gt;#&lt;/a&gt; 序言&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;考编过程&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;教师考编，需要先考取教师资格证（笔试和面试）；&lt;/p&gt;
+&lt;p&gt;然后，通过事业编制 E 类考试，或特岗考试，取得教师编制；&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/forms/teacher/%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95/</guid>
+            <title>教师资格面试</title>
+            <link>http://example.com/forms/teacher/%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95/</link>
             <category term="体制考试" scheme="http://example.com/categories/forms/" />
             <category term="教师" scheme="http://example.com/categories/forms/teacher/" />
             <pubDate>Thu, 22 Apr 2021 20:41:43 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;置顶文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#置顶文章&#34;&gt;#&lt;/a&gt; 置顶文章&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;使用 sticky:true&lt;/li&gt;
-&lt;/ul&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;考试说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考试说明&#34;&gt;#&lt;/a&gt; 考试说明&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;取得教师资格证的最后一步&lt;/p&gt;
+&lt;/blockquote&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/computer/java/show2/</guid>
-            <title>如何理解一个新项目？（下）</title>
-            <link>http://example.com/computer/java/show2/</link>
+            <guid isPermalink="true">http://example.com/computer/java/%E5%BA%8F%E8%A8%80/</guid>
+            <title>java - 序言</title>
+            <link>http://example.com/computer/java/%E5%BA%8F%E8%A8%80/</link>
             <category term="计算机技术" scheme="http://example.com/categories/computer/" />
             <category term="Java" scheme="http://example.com/categories/computer/java/" />
-            <category term="java高级" scheme="http://example.com/tags/java%E9%AB%98%E7%BA%A7/" />
             <pubDate>Thu, 22 Apr 2021 19:53:03 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;一-从servlet到springboot&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-从servlet到springboot&#34;&gt;#&lt;/a&gt; 一、从 servlet 到 springboot&lt;/h2&gt;
-&lt;p&gt;参考：&lt;a href=&#34;https://www.cnblogs.com/davidwang456/p/10297476.html&#34;&gt;https://www.cnblogs.com/davidwang456/p/10297476.html&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;servlet 的本质没有变化，从 web 框架的发展来看，web 框架只是简化了开发 servlet 的工作，但还是遵循 servlet 规范的发展而发展的。&lt;/li&gt;
-&lt;li&gt;servlet 的历史发展，从配置方式向编程方式到自动配置方式发展。&lt;/li&gt;
-&lt;li&gt;spring mvc 框架的分组：root 和 child (可以有多个 dispatcherservlet)，多个 child 可以共享 root，child 直接不共享&lt;/li&gt;
-&lt;/ul&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+&lt;p&gt;记录 java 技术，以及 java 相关的生态:&lt;/p&gt;
+&lt;p&gt;对 java 的技术，通过标签分为三个层级：初级、中级、高级；&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;java 初级&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;掌握 java 相关的基础知识：量、关键字、语法、流程控制、集合、泛型、异常处理、多线程，以及面向对象相关概念；&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;java 中级&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;1、熟练使用 java 基本工具类，并熟练掌握一个三方工具包，如 huttool、谷歌工具包；&lt;/p&gt;
+&lt;p&gt;2、会应用多线程；进行 gvm 调优；会使用 Lamda、流式计算等 java 新特性；&lt;/p&gt;
+&lt;p&gt;3、熟悉基本的计算机知识（计算机网络、计算机原理、数据库），并能应用到 java 中（多写相关 demo）;&lt;/p&gt;
+&lt;p&gt;4、能快速读懂中英文文档，会使用相应的 Api 进行开发；&lt;/p&gt;
+&lt;p&gt;5、熟练使用流行的三方框架：spring、springmvc、springboot、springcloud、mybatis-plus、hibernate 等；&lt;/p&gt;
+&lt;p&gt;6、熟练使用三方工具：redis、elasticsearch、maven、idea；&lt;/p&gt;
+&lt;p&gt;7、掌握常用 linux 命令，以及相关运维工具；&lt;/p&gt;
+&lt;p&gt;8、会进行项目调优升级，进行数据库分表、攻击防护等；&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;java 高级&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;1、把握技术方向，能使用云计算、大数据、人工智能相关框架，理解相应算法；&lt;/p&gt;
+&lt;p&gt;2、能够自己设计相应算法；&lt;/p&gt;
+&lt;p&gt;3、编不下去了。。。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -72,54 +134,52 @@
 &lt;p&gt;&lt;strong&gt;架构&lt;/strong&gt;：&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这个项目应该处于整体架构上的那一层：硬件 —— 服务器 —— 平台接口 —— 服务；&lt;/p&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; a &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; sum &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sum&lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;printIn&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;he&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
-&lt;p&gt;最后&lt;/p&gt;
+&lt;h3 id=&#34;分析数据库的表自己想要需要的核心表是哪些&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析数据库的表自己想要需要的核心表是哪些&#34;&gt;#&lt;/a&gt; 分析数据库的表（自己想要需要的核心表是哪些）&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;核心表&lt;/strong&gt;：&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;1. 的&lt;/p&gt;
-&lt;h3 id=&#34;2-分析数据库的表自己想要需要的核心表是哪些&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-分析数据库的表自己想要需要的核心表是哪些&#34;&gt;#&lt;/a&gt; 2、分析数据库的表（自己想要需要的核心表是哪些）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;核心表&lt;/strong&gt;：根据表名和注释，找到数据库中核心的表，对核心业务影响最大的 3 至 5 个表；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;3-分析项目目录不要看代码只看名字&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-分析项目目录不要看代码只看名字&#34;&gt;#&lt;/a&gt; 3、分析项目目录（不要看代码，只看名字）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;查看&lt;strong&gt;配置文件和项目依赖&lt;/strong&gt;：简略看下项目涉及的技术，回想下自己写过 demo（越简单越好），记不得去看博客笔记。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;猜项目逻辑&lt;/strong&gt;：列出项目结构，根据文件夹（分析分层逻辑，内聚解耦思想的体现）和其下文件的文件名，猜出每一个&lt;strong&gt;模块的层级&lt;/strong&gt;和这个模块的&lt;strong&gt;处理逻辑&lt;/strong&gt;，做好&lt;strong&gt;标注&lt;/strong&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;根据之前分析的&lt;strong&gt;需求&lt;/strong&gt;、&lt;strong&gt;表&lt;/strong&gt;、&lt;strong&gt;项目分层逻辑&lt;/strong&gt;、&lt;strong&gt;涉及技术&lt;/strong&gt;，用画图工具简单画出这个项目的&lt;strong&gt;运行流程&lt;/strong&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;4-模仿编写看代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-模仿编写看代码&#34;&gt;#&lt;/a&gt; 4、  模仿编写（看代码）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
+&lt;p&gt;根据表名和注释，找到数据库中核心的表，对核心业务影响最大的 3 至 5 个表；&lt;/p&gt;
+&lt;h3 id=&#34;分析项目目录不要看代码只看名字&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析项目目录不要看代码只看名字&#34;&gt;#&lt;/a&gt; 分析项目目录（不要看代码，只看名字）&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;查看&lt;strong&gt;配置文件和项目依赖&lt;/strong&gt;：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;简略看下项目涉及的技术，回想下自己写过 demo（越简单越好），记不得去看博客笔记。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;猜项目逻辑&lt;/strong&gt;：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;列出项目结构，根据文件夹（分析分层逻辑，内聚解耦思想的体现）和其下文件的文件名，猜出每一个&lt;strong&gt;模块的层级&lt;/strong&gt;和这个模块的&lt;strong&gt;处理逻辑&lt;/strong&gt;，做好&lt;strong&gt;标注&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根据之前分析的&lt;strong&gt;需求&lt;/strong&gt;、&lt;strong&gt;表&lt;/strong&gt;、&lt;strong&gt;项目分层逻辑&lt;/strong&gt;、&lt;strong&gt;涉及技术&lt;/strong&gt;:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;用画图工具简单画出这个项目的&lt;strong&gt;运行流程&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;模仿编写看代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#模仿编写看代码&#34;&gt;#&lt;/a&gt; 模仿编写（看代码）&lt;/h3&gt;
+&lt;blockquote&gt;
 &lt;p&gt;根据&lt;strong&gt;运行流程&lt;/strong&gt;图，查看某一个&lt;strong&gt;业务&lt;/strong&gt;的代码编写逻辑，进一步确定&lt;strong&gt;运行流程&lt;/strong&gt;，并明确每一个&lt;strong&gt;层级之间的调用关系&lt;/strong&gt;，在列出的项目目录具体标注&lt;strong&gt;功能和调用关系&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;这个业务中涉及到不会的技术：通过搜索引擎搜索，这个技术一定要搜索具体的&lt;strong&gt;代码&lt;/strong&gt;，而非泛泛的技术概念，对于技术的搜索答案，要选择&lt;strong&gt;最简单&lt;/strong&gt;的描述即可。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
+&lt;blockquote&gt;
 &lt;p&gt;列出查看业务 crud 等的代码&lt;strong&gt;调用层级&lt;/strong&gt;和&lt;strong&gt;业务如何分层&lt;/strong&gt;，画出图形，作为模仿的参照。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;选择一个业务，根据已经分析的业务逻辑，编写一个业务逻辑的 crud 等简单功能。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;5-涉及技术demo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-涉及技术demo&#34;&gt;#&lt;/a&gt; 5、涉及技术 demo&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;根据&lt;strong&gt;项目依赖&lt;/strong&gt;和&lt;strong&gt;配置文件&lt;/strong&gt;，去搜索对应技术的 demo，=== 不会或不明的技术。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;搜索技术功能（答案要尽量简单）：这个技术的功能是什么，解决的是什么问题，适合怎样的业务场景？&lt;strong&gt;一句话描述&lt;/strong&gt;即可，不能多余一句话。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;技术 demo（尽量简单，helloWorld 层级即可）：搜索技术一个 demo，模仿编写：环境配置，项目依赖导入，项目的配置。这个技术功能（上步答案）的实现 demo，最简代码编写即可。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在项目中，去对应 demo 中的编写。对于 demo 中未涉及的深入操作，根据官方文档，以及源代码，还有搜索引擎，去扩展编写即可。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;写涉及技术demo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写涉及技术demo&#34;&gt;#&lt;/a&gt; 写涉及技术 demo&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根据&lt;strong&gt;项目依赖&lt;/strong&gt;和&lt;strong&gt;配置文件&lt;/strong&gt;:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;去搜索对应技术的 demo，=== 不会或不明的技术。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;搜索技术功能（答案要尽量简单）：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这个技术的功能是什么，解决的是什么问题，适合怎样的业务场景？&lt;strong&gt;一句话描述&lt;/strong&gt;即可，不能多余一句话。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;技术 demo（尽量简单，helloWorld 层级即可）：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;搜索技术一个 demo，模仿编写：环境配置，项目依赖导入，项目的配置。这个技术功能（上步答案）的实现 demo，最简代码编写即可。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在项目中，去对应 demo 中的编写：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于 demo 中未涉及的深入操作，根据官方文档，以及源代码，还有搜索引擎，去扩展编写即可。&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

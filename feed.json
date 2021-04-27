@@ -7,37 +7,69 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/forms/teacher/test1/",
-            "url": "http://example.com/forms/teacher/test1/",
-            "title": "教师资格证面试",
-            "date_published": "2021-04-23T08:21:23.442Z",
-            "content_html": "<h2 id=\"教师资格证面试\"><a class=\"anchor\" href=\"#教师资格证面试\">#</a> 教师资格证面试</h2>\n<ul>\n<li>信息技术学科</li>\n</ul>\n",
+            "id": "http://example.com/usually/blibli/%E5%BA%8F%E8%A8%80/",
+            "url": "http://example.com/usually/blibli/%E5%BA%8F%E8%A8%80/",
+            "title": "B站-序言",
+            "date_published": "2021-04-27T11:17:32.757Z",
+            "content_html": "<h2 id=\"说明\"><a class=\"anchor\" href=\"#说明\">#</a> 说明</h2>\n<blockquote>\n<p>主要是记录自己 b 站对应视频的文档，或者对视频进行补充说明；</p>\n<p>b 站地址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMTAwMDM2MTU2\">https://space.bilibili.com/100036156</span></p>\n</blockquote>\n",
             "tags": [
-                "体制考试",
-                "教师"
+                "杂谈",
+                "B站"
             ]
         },
         {
-            "id": "http://example.com/forms/teacher/test2/",
-            "url": "http://example.com/forms/teacher/test2/",
-            "title": "置顶文章",
-            "date_published": "2021-04-22T12:41:43.557Z",
-            "content_html": "<h2 id=\"置顶文章\"><a class=\"anchor\" href=\"#置顶文章\">#</a> 置顶文章</h2>\n<ul>\n<li>使用 sticky:true</li>\n</ul>\n",
+            "id": "http://example.com/forms/master/%E5%BA%8F%E8%A8%80/",
+            "url": "http://example.com/forms/master/%E5%BA%8F%E8%A8%80/",
+            "title": "公务员事业编-序言",
+            "date_published": "2021-04-27T10:59:12.828Z",
+            "content_html": "<h2 id=\"说明\"><a class=\"anchor\" href=\"#说明\">#</a> 说明</h2>\n<blockquote>\n<p>考试内容</p>\n<p>公务员、事业编制考试内容，基本都分为两个部分，也基本一致，故放到一个模块下；</p>\n</blockquote>\n<p>客观题：常识、言语、数量、逻辑、资料；</p>\n<p>主观：单一题、公文题、作文等；</p>\n",
             "tags": [
                 "体制考试",
-                "教师"
+                "公务员"
             ]
         },
         {
-            "id": "http://example.com/computer/java/show2/",
-            "url": "http://example.com/computer/java/show2/",
-            "title": "如何理解一个新项目？（下）",
-            "date_published": "2021-04-22T11:53:03.394Z",
-            "content_html": "<h2 id=\"一-从servlet到springboot\"><a class=\"anchor\" href=\"#一-从servlet到springboot\">#</a> 一、从 servlet 到 springboot</h2>\n<p>参考：<a href=\"https://www.cnblogs.com/davidwang456/p/10297476.html\">https://www.cnblogs.com/davidwang456/p/10297476.html</a></p>\n<ul>\n<li>servlet 的本质没有变化，从 web 框架的发展来看，web 框架只是简化了开发 servlet 的工作，但还是遵循 servlet 规范的发展而发展的。</li>\n<li>servlet 的历史发展，从配置方式向编程方式到自动配置方式发展。</li>\n<li>spring mvc 框架的分组：root 和 child (可以有多个 dispatcherservlet)，多个 child 可以共享 root，child 直接不共享</li>\n</ul>\n",
+            "id": "http://example.com/computer/logic/%E5%BA%8F%E8%A8%80/",
+            "url": "http://example.com/computer/logic/%E5%BA%8F%E8%A8%80/",
+            "title": "算法-序言",
+            "date_published": "2021-04-27T10:45:15.999Z",
+            "content_html": "<h2 id=\"序言\"><a class=\"anchor\" href=\"#序言\">#</a> 序言</h2>\n<blockquote>\n<p>说明</p>\n</blockquote>\n<p>记录自己学习的计算机算法</p>\n",
             "tags": [
                 "计算机技术",
-                "Java",
-                "java高级"
+                "算法"
+            ]
+        },
+        {
+            "id": "http://example.com/forms/teacher/%E5%BA%8F/",
+            "url": "http://example.com/forms/teacher/%E5%BA%8F/",
+            "title": "教师考试-序言",
+            "date_published": "2021-04-27T10:38:11.490Z",
+            "content_html": "<h2 id=\"序言\"><a class=\"anchor\" href=\"#序言\">#</a> 序言</h2>\n<blockquote>\n<p>考编过程</p>\n</blockquote>\n<p>教师考编，需要先考取教师资格证（笔试和面试）；</p>\n<p>然后，通过事业编制 E 类考试，或特岗考试，取得教师编制；</p>\n",
+            "tags": [
+                "体制考试",
+                "教师"
+            ]
+        },
+        {
+            "id": "http://example.com/forms/teacher/%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95/",
+            "url": "http://example.com/forms/teacher/%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95/",
+            "title": "教师资格面试",
+            "date_published": "2021-04-22T12:41:43.557Z",
+            "content_html": "<h2 id=\"考试说明\"><a class=\"anchor\" href=\"#考试说明\">#</a> 考试说明</h2>\n<blockquote>\n<p>取得教师资格证的最后一步</p>\n</blockquote>\n",
+            "tags": [
+                "体制考试",
+                "教师"
+            ]
+        },
+        {
+            "id": "http://example.com/computer/java/%E5%BA%8F%E8%A8%80/",
+            "url": "http://example.com/computer/java/%E5%BA%8F%E8%A8%80/",
+            "title": "java - 序言",
+            "date_published": "2021-04-22T11:53:03.394Z",
+            "content_html": "<h2 id=\"说明\"><a class=\"anchor\" href=\"#说明\">#</a> 说明</h2>\n<p>记录 java 技术，以及 java 相关的生态:</p>\n<p>对 java 的技术，通过标签分为三个层级：初级、中级、高级；</p>\n<blockquote>\n<p>java 初级</p>\n</blockquote>\n<p>掌握 java 相关的基础知识：量、关键字、语法、流程控制、集合、泛型、异常处理、多线程，以及面向对象相关概念；</p>\n<blockquote>\n<p>java 中级</p>\n</blockquote>\n<p>1、熟练使用 java 基本工具类，并熟练掌握一个三方工具包，如 huttool、谷歌工具包；</p>\n<p>2、会应用多线程；进行 gvm 调优；会使用 Lamda、流式计算等 java 新特性；</p>\n<p>3、熟悉基本的计算机知识（计算机网络、计算机原理、数据库），并能应用到 java 中（多写相关 demo）;</p>\n<p>4、能快速读懂中英文文档，会使用相应的 Api 进行开发；</p>\n<p>5、熟练使用流行的三方框架：spring、springmvc、springboot、springcloud、mybatis-plus、hibernate 等；</p>\n<p>6、熟练使用三方工具：redis、elasticsearch、maven、idea；</p>\n<p>7、掌握常用 linux 命令，以及相关运维工具；</p>\n<p>8、会进行项目调优升级，进行数据库分表、攻击防护等；</p>\n<blockquote>\n<p>java 高级</p>\n</blockquote>\n<p>1、把握技术方向，能使用云计算、大数据、人工智能相关框架，理解相应算法；</p>\n<p>2、能够自己设计相应算法；</p>\n<p>3、编不下去了。。。</p>\n",
+            "tags": [
+                "计算机技术",
+                "Java"
             ]
         },
         {
@@ -45,7 +77,7 @@
             "url": "http://example.com/computer/java/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AAjava%E9%A1%B9%E7%9B%AE/",
             "title": "如何快速理解一个java项目？",
             "date_published": "2021-04-22T11:29:08.955Z",
-            "content_html": "<h3 id=\"了解需求对应架构不要去看代码自己思考怎么做\"><a class=\"anchor\" href=\"#了解需求对应架构不要去看代码自己思考怎么做\">#</a> 了解需求，对应架构（不要去看代码，自己思考怎么做）</h3>\n<blockquote>\n<p><strong>需求</strong>：</p>\n</blockquote>\n<p>​\t从项目开发人员或客户，明白这个项目的需求是什么（即：这个项目整体需要实现怎样的功能）；</p>\n<blockquote>\n<p><strong>架构</strong>：</p>\n</blockquote>\n<p>这个项目应该处于整体架构上的那一层：硬件 —— 服务器 —— 平台接口 —— 服务；</p>\n<figure class=\"highlight java\"><figcaption data-lang=\"java\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">int</span> a <span class=\"token operator\">=</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre><span class=\"token keyword\">int</span> sum <span class=\"token operator\">=</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre>sum<span class=\"token operator\">+=</span>a<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"4\"></td><td><pre><span class=\"token class-name\">System</span><span class=\"token punctuation\">.</span>out<span class=\"token punctuation\">.</span><span class=\"token function\">printIn</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"he\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span></pre></td></tr></table></figure><blockquote>\n<p>最后</p>\n</blockquote>\n<p>1. 的</p>\n<h3 id=\"2-分析数据库的表自己想要需要的核心表是哪些\"><a class=\"anchor\" href=\"#2-分析数据库的表自己想要需要的核心表是哪些\">#</a> 2、分析数据库的表（自己想要需要的核心表是哪些）</h3>\n<ul>\n<li><strong>核心表</strong>：根据表名和注释，找到数据库中核心的表，对核心业务影响最大的 3 至 5 个表；</li>\n</ul>\n<h3 id=\"3-分析项目目录不要看代码只看名字\"><a class=\"anchor\" href=\"#3-分析项目目录不要看代码只看名字\">#</a> 3、分析项目目录（不要看代码，只看名字）</h3>\n<ul>\n<li>\n<p>查看<strong>配置文件和项目依赖</strong>：简略看下项目涉及的技术，回想下自己写过 demo（越简单越好），记不得去看博客笔记。</p>\n</li>\n<li>\n<p><strong>猜项目逻辑</strong>：列出项目结构，根据文件夹（分析分层逻辑，内聚解耦思想的体现）和其下文件的文件名，猜出每一个<strong>模块的层级</strong>和这个模块的<strong>处理逻辑</strong>，做好<strong>标注</strong>。</p>\n</li>\n<li>\n<p>根据之前分析的<strong>需求</strong>、<strong>表</strong>、<strong>项目分层逻辑</strong>、<strong>涉及技术</strong>，用画图工具简单画出这个项目的<strong>运行流程</strong>。</p>\n</li>\n</ul>\n<h3 id=\"4-模仿编写看代码\"><a class=\"anchor\" href=\"#4-模仿编写看代码\">#</a> 4、  模仿编写（看代码）</h3>\n<ul>\n<li>\n<p>根据<strong>运行流程</strong>图，查看某一个<strong>业务</strong>的代码编写逻辑，进一步确定<strong>运行流程</strong>，并明确每一个<strong>层级之间的调用关系</strong>，在列出的项目目录具体标注<strong>功能和调用关系</strong>。</p>\n<p>这个业务中涉及到不会的技术：通过搜索引擎搜索，这个技术一定要搜索具体的<strong>代码</strong>，而非泛泛的技术概念，对于技术的搜索答案，要选择<strong>最简单</strong>的描述即可。</p>\n</li>\n<li>\n<p>列出查看业务 crud 等的代码<strong>调用层级</strong>和<strong>业务如何分层</strong>，画出图形，作为模仿的参照。</p>\n</li>\n<li>\n<p>选择一个业务，根据已经分析的业务逻辑，编写一个业务逻辑的 crud 等简单功能。</p>\n</li>\n</ul>\n<h3 id=\"5-涉及技术demo\"><a class=\"anchor\" href=\"#5-涉及技术demo\">#</a> 5、涉及技术 demo</h3>\n<ul>\n<li>\n<p>根据<strong>项目依赖</strong>和<strong>配置文件</strong>，去搜索对应技术的 demo，=== 不会或不明的技术。</p>\n</li>\n<li>\n<p>搜索技术功能（答案要尽量简单）：这个技术的功能是什么，解决的是什么问题，适合怎样的业务场景？<strong>一句话描述</strong>即可，不能多余一句话。</p>\n</li>\n<li>\n<p>技术 demo（尽量简单，helloWorld 层级即可）：搜索技术一个 demo，模仿编写：环境配置，项目依赖导入，项目的配置。这个技术功能（上步答案）的实现 demo，最简代码编写即可。</p>\n</li>\n<li>\n<p>在项目中，去对应 demo 中的编写。对于 demo 中未涉及的深入操作，根据官方文档，以及源代码，还有搜索引擎，去扩展编写即可。</p>\n</li>\n</ul>\n",
+            "content_html": "<h3 id=\"了解需求对应架构不要去看代码自己思考怎么做\"><a class=\"anchor\" href=\"#了解需求对应架构不要去看代码自己思考怎么做\">#</a> 了解需求，对应架构（不要去看代码，自己思考怎么做）</h3>\n<blockquote>\n<p><strong>需求</strong>：</p>\n</blockquote>\n<p>​\t从项目开发人员或客户，明白这个项目的需求是什么（即：这个项目整体需要实现怎样的功能）；</p>\n<blockquote>\n<p><strong>架构</strong>：</p>\n</blockquote>\n<p>这个项目应该处于整体架构上的那一层：硬件 —— 服务器 —— 平台接口 —— 服务；</p>\n<h3 id=\"分析数据库的表自己想要需要的核心表是哪些\"><a class=\"anchor\" href=\"#分析数据库的表自己想要需要的核心表是哪些\">#</a> 分析数据库的表（自己想要需要的核心表是哪些）</h3>\n<blockquote>\n<p><strong>核心表</strong>：</p>\n</blockquote>\n<p>根据表名和注释，找到数据库中核心的表，对核心业务影响最大的 3 至 5 个表；</p>\n<h3 id=\"分析项目目录不要看代码只看名字\"><a class=\"anchor\" href=\"#分析项目目录不要看代码只看名字\">#</a> 分析项目目录（不要看代码，只看名字）</h3>\n<blockquote>\n<p>查看<strong>配置文件和项目依赖</strong>：</p>\n</blockquote>\n<p>简略看下项目涉及的技术，回想下自己写过 demo（越简单越好），记不得去看博客笔记。</p>\n<blockquote>\n<p><strong>猜项目逻辑</strong>：</p>\n</blockquote>\n<p>列出项目结构，根据文件夹（分析分层逻辑，内聚解耦思想的体现）和其下文件的文件名，猜出每一个<strong>模块的层级</strong>和这个模块的<strong>处理逻辑</strong>，做好<strong>标注</strong>。</p>\n<blockquote>\n<p>根据之前分析的<strong>需求</strong>、<strong>表</strong>、<strong>项目分层逻辑</strong>、<strong>涉及技术</strong>:</p>\n</blockquote>\n<p>用画图工具简单画出这个项目的<strong>运行流程</strong>。</p>\n<h3 id=\"模仿编写看代码\"><a class=\"anchor\" href=\"#模仿编写看代码\">#</a> 模仿编写（看代码）</h3>\n<blockquote>\n<p>根据<strong>运行流程</strong>图，查看某一个<strong>业务</strong>的代码编写逻辑，进一步确定<strong>运行流程</strong>，并明确每一个<strong>层级之间的调用关系</strong>，在列出的项目目录具体标注<strong>功能和调用关系</strong>。</p>\n</blockquote>\n<p>这个业务中涉及到不会的技术：通过搜索引擎搜索，这个技术一定要搜索具体的<strong>代码</strong>，而非泛泛的技术概念，对于技术的搜索答案，要选择<strong>最简单</strong>的描述即可。</p>\n<blockquote>\n<p>列出查看业务 crud 等的代码<strong>调用层级</strong>和<strong>业务如何分层</strong>，画出图形，作为模仿的参照。</p>\n</blockquote>\n<blockquote>\n<p>选择一个业务，根据已经分析的业务逻辑，编写一个业务逻辑的 crud 等简单功能。</p>\n</blockquote>\n<h3 id=\"写涉及技术demo\"><a class=\"anchor\" href=\"#写涉及技术demo\">#</a> 写涉及技术 demo</h3>\n<blockquote>\n<p>根据<strong>项目依赖</strong>和<strong>配置文件</strong>:</p>\n</blockquote>\n<p>去搜索对应技术的 demo，=== 不会或不明的技术。</p>\n<blockquote>\n<p>搜索技术功能（答案要尽量简单）：</p>\n</blockquote>\n<p>这个技术的功能是什么，解决的是什么问题，适合怎样的业务场景？<strong>一句话描述</strong>即可，不能多余一句话。</p>\n<blockquote>\n<p>技术 demo（尽量简单，helloWorld 层级即可）：</p>\n</blockquote>\n<p>搜索技术一个 demo，模仿编写：环境配置，项目依赖导入，项目的配置。这个技术功能（上步答案）的实现 demo，最简代码编写即可。</p>\n<blockquote>\n<p>在项目中，去对应 demo 中的编写：</p>\n</blockquote>\n<p>对于 demo 中未涉及的深入操作，根据官方文档，以及源代码，还有搜索引擎，去扩展编写即可。</p>\n",
             "tags": [
                 "计算机技术",
                 "Java",
