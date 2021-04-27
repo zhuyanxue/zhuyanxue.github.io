@@ -19,8 +19,10 @@
             <category term="体制考试" scheme="http://example.com/categories/forms/" />
             <category term="教师" scheme="http://example.com/categories/forms/teacher/" />
             <pubDate>Fri, 23 Apr 2021 16:21:23 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;教师资格面试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#教师资格面试&#34;&gt;#&lt;/a&gt; 教师资格面试&lt;/h1&gt;
-&lt;p&gt;需要的材料‘’&lt;/p&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;教师资格证面试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#教师资格证面试&#34;&gt;#&lt;/a&gt; 教师资格证面试&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;信息技术学科&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -45,7 +47,7 @@
             <category term="java高级" scheme="http://example.com/tags/java%E9%AB%98%E7%BA%A7/" />
             <pubDate>Thu, 22 Apr 2021 19:53:03 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;一-从servlet到springboot&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-从servlet到springboot&#34;&gt;#&lt;/a&gt; 一、从 servlet 到 springboot&lt;/h2&gt;
-&lt;p&gt;参考：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vZGF2aWR3YW5nNDU2L3AvMTAyOTc0NzYuaHRtbA==&#34;&gt;https://www.cnblogs.com/davidwang456/p/10297476.html&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;参考：&lt;a href=&#34;https://www.cnblogs.com/davidwang456/p/10297476.html&#34;&gt;https://www.cnblogs.com/davidwang456/p/10297476.html&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;servlet 的本质没有变化，从 web 框架的发展来看，web 框架只是简化了开发 servlet 的工作，但还是遵循 servlet 规范的发展而发展的。&lt;/li&gt;
 &lt;li&gt;servlet 的历史发展，从配置方式向编程方式到自动配置方式发展。&lt;/li&gt;
@@ -54,18 +56,26 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/computer/java/show1/</guid>
-            <title>如何理解一个项目（上）？</title>
-            <link>http://example.com/computer/java/show1/</link>
+            <guid isPermalink="true">http://example.com/computer/java/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AAjava%E9%A1%B9%E7%9B%AE/</guid>
+            <title>如何快速理解一个java项目？</title>
+            <link>http://example.com/computer/java/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%90%86%E8%A7%A3%E4%B8%80%E4%B8%AAjava%E9%A1%B9%E7%9B%AE/</link>
             <category term="计算机技术" scheme="http://example.com/categories/computer/" />
             <category term="Java" scheme="http://example.com/categories/computer/java/" />
             <category term="Java中级" scheme="http://example.com/tags/Java%E4%B8%AD%E7%BA%A7/" />
             <pubDate>Thu, 22 Apr 2021 19:29:08 +0800</pubDate>
-            <description><![CDATA[ &lt;h3 id=&#34;1-理解需求找到架构不要去看代码自己思考怎么做&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-理解需求找到架构不要去看代码自己思考怎么做&#34;&gt;#&lt;/a&gt; 1、理解需求，找到架构（不要去看代码，自己思考怎么做）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;需求&lt;/strong&gt;：从项目开发人员或客户，明白这个项目的需求是什么（即：这个项目整体需要实现怎样的功能）；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;架构&lt;/strong&gt;：这个项目应该处于整体架构上的那一层：硬件 —— 服务器 —— 平台接口 —— 服务；&lt;/li&gt;
-&lt;/ul&gt;
+            <description><![CDATA[ &lt;h3 id=&#34;了解需求对应架构不要去看代码自己思考怎么做&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#了解需求对应架构不要去看代码自己思考怎么做&#34;&gt;#&lt;/a&gt; 了解需求，对应架构（不要去看代码，自己思考怎么做）&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;需求&lt;/strong&gt;：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​	从项目开发人员或客户，明白这个项目的需求是什么（即：这个项目整体需要实现怎样的功能）；&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;架构&lt;/strong&gt;：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这个项目应该处于整体架构上的那一层：硬件 —— 服务器 —— 平台接口 —— 服务；&lt;/p&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; a &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; sum &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sum&lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;printIn&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;he&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;最后&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;1. 的&lt;/p&gt;
 &lt;h3 id=&#34;2-分析数据库的表自己想要需要的核心表是哪些&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-分析数据库的表自己想要需要的核心表是哪些&#34;&gt;#&lt;/a&gt; 2、分析数据库的表（自己想要需要的核心表是哪些）&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;核心表&lt;/strong&gt;：根据表名和注释，找到数据库中核心的表，对核心业务影响最大的 3 至 5 个表；&lt;/li&gt;
@@ -74,7 +84,41 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;查看&lt;strong&gt;配置文件和项目依赖&lt;/strong&gt;：简略看下项目涉及的技术，回想下自己写过 demo（越简单越好），记不得去看博客笔记。&lt;/p&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; a&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;a&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;system&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;“shuj1”&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;猜项目逻辑&lt;/strong&gt;：列出项目结构，根据文件夹（分析分层逻辑，内聚解耦思想的体现）和其下文件的文件名，猜出每一个&lt;strong&gt;模块的层级&lt;/strong&gt;和这个模块的&lt;strong&gt;处理逻辑&lt;/strong&gt;，做好&lt;strong&gt;标注&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;根据之前分析的&lt;strong&gt;需求&lt;/strong&gt;、&lt;strong&gt;表&lt;/strong&gt;、&lt;strong&gt;项目分层逻辑&lt;/strong&gt;、&lt;strong&gt;涉及技术&lt;/strong&gt;，用画图工具简单画出这个项目的&lt;strong&gt;运行流程&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-模仿编写看代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-模仿编写看代码&#34;&gt;#&lt;/a&gt; 4、  模仿编写（看代码）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;根据&lt;strong&gt;运行流程&lt;/strong&gt;图，查看某一个&lt;strong&gt;业务&lt;/strong&gt;的代码编写逻辑，进一步确定&lt;strong&gt;运行流程&lt;/strong&gt;，并明确每一个&lt;strong&gt;层级之间的调用关系&lt;/strong&gt;，在列出的项目目录具体标注&lt;strong&gt;功能和调用关系&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这个业务中涉及到不会的技术：通过搜索引擎搜索，这个技术一定要搜索具体的&lt;strong&gt;代码&lt;/strong&gt;，而非泛泛的技术概念，对于技术的搜索答案，要选择&lt;strong&gt;最简单&lt;/strong&gt;的描述即可。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;列出查看业务 crud 等的代码&lt;strong&gt;调用层级&lt;/strong&gt;和&lt;strong&gt;业务如何分层&lt;/strong&gt;，画出图形，作为模仿的参照。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;选择一个业务，根据已经分析的业务逻辑，编写一个业务逻辑的 crud 等简单功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-涉及技术demo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-涉及技术demo&#34;&gt;#&lt;/a&gt; 5、涉及技术 demo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;根据&lt;strong&gt;项目依赖&lt;/strong&gt;和&lt;strong&gt;配置文件&lt;/strong&gt;，去搜索对应技术的 demo，=== 不会或不明的技术。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;搜索技术功能（答案要尽量简单）：这个技术的功能是什么，解决的是什么问题，适合怎样的业务场景？&lt;strong&gt;一句话描述&lt;/strong&gt;即可，不能多余一句话。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;技术 demo（尽量简单，helloWorld 层级即可）：搜索技术一个 demo，模仿编写：环境配置，项目依赖导入，项目的配置。这个技术功能（上步答案）的实现 demo，最简代码编写即可。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在项目中，去对应 demo 中的编写。对于 demo 中未涉及的深入操作，根据官方文档，以及源代码，还有搜索引擎，去扩展编写即可。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
